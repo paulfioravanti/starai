@@ -3,7 +3,8 @@
 This repo contains exercises I did for the
 [Beta StarAi Reinforcement Learning Course][].
 
-I found out about the course through the [Sydney Machine Learning Meetup][].
+I found out about the course through the [Sydney Machine Learning Meetup][]
+([course Meetup page][StarAi Deep Reinforcement Learning Course Meetup page]).
 
 ### Details
 
@@ -13,6 +14,7 @@ I found out about the course through the [Sydney Machine Learning Meetup][].
 - Discussion groups: [StarAi Forums][]
 
 [Beta StarAi Reinforcement Learning Course]: https://sites.google.com/view/starai-course-beta/lessons-preview
+[StarAi Deep Reinforcement Learning Course Meetup page]: https://www.meetup.com/Sydney-Machine-Learning/events/253667418/
 [StarAi Forums]: http://forums.starai.io/
 [Microsoft Reactor Sydney]: https://developer.microsoft.com/en-us/reactor/#ReactorSydney
 [Paul Conyngham]: https://twitter.com/paul_conyngham
